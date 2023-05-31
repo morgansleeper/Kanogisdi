@@ -1,8 +1,8 @@
-# ᏘᏃᎩ/Tihnogi 🎤🎵
+# ᎧᏃᎩᏍᏗ/Kanogisdi 🎤🎵
 
-ᏘᏃᎩ/Tihnogi (/tʰihnoki/ 'sing!') is a Cherokee UTAUloid, which can be used to create synthesized vocal music in the Cherokee language.
+ᎧᏃᎩᏍᏗ/Kanogisdi (/kʰanoːkiːsti/ 'singing'/'song') is a Cherokee UTAUloid, which can be used to create synthesized vocal music in the Cherokee language.
 
-## Using Tihnogi
+## Using Kanogisdi
 
 Coming soon!
 
