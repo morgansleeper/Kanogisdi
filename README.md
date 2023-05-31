@@ -4,12 +4,21 @@
 
 ## Using Kanogisdi
 
-Coming soon!
+_Coming soon!_
+
+<details>
+<summary>Syllables in Kanogisdi</summary>
+</details>
+
+<details>
+<summary>Syllabary chart with mappings for Kanogisdi</summary>
+</details>
+
 
 ## Examples
 
-Coming soon!
+_Coming soon!_
 
 ## Acknowledgments & extras
 
-Coming soon!
+_Coming soon!_
