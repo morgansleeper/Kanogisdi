@@ -4,8 +4,8 @@
 
 ᎧᏃᎩᏍᏗ/Kanogisdi (/kʰanoːkiːsti/ 'singing') is a Cherokee UTAUloid, which can be used to create synthesized vocal music in the Cherokee language. Kanogisdi should work with any UTAU-compatible software, but was designed with [OpenUtau](http://www.openutau.com) in mind.
 
-
-
+<br>
+<br>
 
 ## Using Kanogisdi
 
