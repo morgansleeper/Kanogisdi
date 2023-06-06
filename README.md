@@ -1,4 +1,4 @@
-# ᎧᏃᎩᏍᏗ/Kanogisdi 🎵
+# ᎧᏃᎩᏍᏗ/Kanogisdi 🎙️🎵
 
 <img align="right" src="images/kanogisdi.png" width="150">
 
