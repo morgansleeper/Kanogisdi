@@ -27,6 +27,6 @@ _Coming soon:_
 ## Examples
 "ᎣᏏᏲ! ᎧᏃᎩᏍᏗ ᏓᏆᏙᎠ — ᎢᏓᎴᎾᏭ!"
 
-https://github.com/morgansleeper/Kanogisdi/assets/28555666/d6a1e362-09c6-400e-80ab-c794b45b893a
+https://github.com/morgansleeper/Kanogisdi/assets/28555666/31567b3c-6298-4246-a36a-b036a5f304c8
 
 _More coming soon!_
