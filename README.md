@@ -29,5 +29,7 @@ _Coming soon:_
 
 https://github.com/morgansleeper/Kanogisdi/assets/28555666/56d8f505-90bc-4bdd-9d9c-c5b186c54846
 
+"ᎣᏏᏲ! ᎧᏃᎩᏍᏗ ᏓᏆᏙᎠ; ᎢᏓᎴᎾᏭ!"
+
 
 _More coming soon!_
