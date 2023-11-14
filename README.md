@@ -25,11 +25,8 @@ _Coming soon:_
 </details>
 
 ## Examples
+"ᎣᏏᏲ! ᎧᏃᎩᏍᏗ ᏓᏆᏙᎠ — ᎢᏓᎴᎾᏭ!"
 
-
-https://github.com/morgansleeper/Kanogisdi/assets/28555666/56d8f505-90bc-4bdd-9d9c-c5b186c54846
-
-"ᎣᏏᏲ! ᎧᏃᎩᏍᏗ ᏓᏆᏙᎠ; ᎢᏓᎴᎾᏭ!"
-
+https://github.com/morgansleeper/Kanogisdi/assets/28555666/d6a1e362-09c6-400e-80ab-c794b45b893a
 
 _More coming soon!_
