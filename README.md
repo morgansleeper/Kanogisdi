@@ -14,14 +14,12 @@ To get started:
 4. Once installed, select Kanogisdi from the 'Select Singer' button on a track on the left, and choose the 'Default' phonemizer and 'Classic' renderer options
 5. ᏘᏃᎩ!
 
-_Coming soon:_
+For complete syllable mappings, see[here](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)!
 
 <details>
-<summary>Syllables in Kanogisdi</summary>
-</details>
-
-<details>
-<summary>Syllabary chart with mappings for Kanogisdi</summary>
+<summary>ᏣᎳᎩ Syllabary chart with mappings for Kanogisdi</summary>
+_Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the [full syllable mapping of Kanogisdi](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)._
+<img src="images/syllabary.png">
 </details>
 
 ## Examples
