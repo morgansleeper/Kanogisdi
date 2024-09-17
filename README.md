@@ -21,6 +21,7 @@ For **complete syllable mappings**, see [this chart](https://docs.google.com/spr
 <details>
 <summary>Click here for the ᏣᎳᎩ Syllabary chart with mappings for Kanogisdi</summary>
 
+
 Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the full syllable mapping of Kanogisdi (see link above).
 
 <img src="images/syllabary.png">
