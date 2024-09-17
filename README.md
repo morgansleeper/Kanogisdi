@@ -12,13 +12,16 @@ To get started:
 2. If you haven't already, download and install [OpenUtau](http://www.openutau.com)
 3. Follow the instructions [here](https://github.com/stakira/OpenUtau/wiki/Getting-Started#install-a-voicebank) to install Kanogisdi as a voicebank! (Make sure to select 'UTF-8' as the 'Archive File Encoding')
 4. Once installed, select Kanogisdi from the 'Select Singer' button on a track on the left, and choose the 'Default' phonemizer and 'Classic' renderer options
-5. ᏘᏃᎩ!
+5. Check the [syllable mappings chart](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)
+6. ᏘᏃᎩ!
 
-For complete syllable mappings, see[here](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)!
+## Syllable mapping
+
+For **complete syllable mappings**, see [here](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)!
 
 <details>
 <summary>ᏣᎳᎩ Syllabary chart with mappings for Kanogisdi</summary>
-_Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the [full syllable mapping of Kanogisdi](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)._
+Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the full syllable mapping of Kanogisdi (see link above).
 <img src="images/syllabary.png">
 </details>
 
