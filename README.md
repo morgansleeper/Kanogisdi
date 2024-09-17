@@ -16,12 +16,15 @@ To get started:
 
 ## Syllable mapping
 
-For the **complete syllable mappings**, see [this chart](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)!
+For **complete syllable mappings**, see [this chart](https://docs.google.com/spreadsheets/d/1Yb0HBqQLzD9vcHwfl2e7K4WyMroSroBJkK2BBHYEcK8/edit?usp=sharing)!
 
-**ᏣᎳᎩ Syllabary chart** with mappings for Kanogisdi:
-_Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the full syllable mapping of Kanogisdi (see link above)._
+<details>
+<summary>Click here for the ᏣᎳᎩ Syllabary chart with mappings for Kanogisdi</summary>
+
+Note: syllabary rows marked with an arrow differ from the usual romanization system in order to better accommodate voiceless equivalents in the full syllable mapping of Kanogisdi (see link above).
 
 <img src="images/syllabary.png">
+</details>
 
 ## Examples
 "ᎣᏏᏲ! ᎧᏃᎩᏍᏗ ᏓᏆᏙᎠ — ᎢᏓᎴᎾᏭ!"
