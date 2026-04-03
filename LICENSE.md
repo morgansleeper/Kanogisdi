@@ -4,6 +4,8 @@ In the spirit of ᎦᏚᎩ, this UTAUloid can be used freely by anyone working t
 
 Please do not alter, modify, or redistribute this voicebank elsewhere.
 
+This voicebank cannot be used in, with, by, or to train generative AI in any way.
+
 As with all UTAU voicebanks, it is prohibited to use ᎧᏃᎩᏍᏗ/Kanogisdi to advance racism, sexism, or bigotry of any kind.
 
 ᏩᏙ!
